@@ -1,11 +1,19 @@
 {
-  "name": "js-project",
+  "name": "jsproject",
   "version": "1.0.0",
-  "description": "js project",
+  "description": "My first Repo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "yunis.ali@variableasign.com",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunis-ali2000/firstRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunis-ali2000/firstRepo/issues"
+  },
+  "homepage": "https://github.com/yunis-ali2000/firstRepo#readme"
 }
